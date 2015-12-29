@@ -1,0 +1,25 @@
+{
+  "name": "sails-custom-validation-messages",
+  "version": "0.0.1",
+  "description": "Custom validation messages for sailsjs models",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emgoya/sails-custom-validation-messages.git"
+  },
+  "keywords": [
+    "sails",
+    "sailsjs",
+    "validation",
+    "waterline"
+  ],
+  "author": "emgoya@gmail.com",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/emgoya/sails-custom-validation-messages/issues"
+  },
+  "homepage": "https://github.com/emgoya/sails-custom-validation-messages"
+}
