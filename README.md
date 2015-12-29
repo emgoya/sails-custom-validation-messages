@@ -21,7 +21,7 @@ module.exports = {
     }
   },
   validationMessages: {
-    name: {
+    title: {
       required: 'Title is required'
       minLength : 'The title needs at least 3 characters'
     }
